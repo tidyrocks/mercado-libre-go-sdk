@@ -25,7 +25,7 @@ func init() {
 	loadEnv()
 }
 
-// loadEnv busca .env subiendo por el árbol de directorios en init().
+// loadEnv busca .env en ../env-mercado-libre-go-sdk/ y luego sube por el árbol.
 func loadEnv() {
 	dir, err := os.Getwd()
 	if err != nil {
@@ -33,20 +33,31 @@ func loadEnv() {
 		return
 	}
 
+	// Buscar subiendo por el árbol hasta encontrar el proyecto root
+	currentDir := dir
 	for {
-		envPath := filepath.Join(dir, ".env")
+		// Primero intentar ../env-mercado-libre-go-sdk/ desde este nivel
+		envDir := filepath.Join(filepath.Dir(currentDir), "env-mercado-libre-go-sdk")
+		envPath := filepath.Join(envDir, ".env")
 		if _, err := os.Stat(envPath); err == nil {
 			loadEnvFile(envPath)
 			return
 		}
 
-		parent := filepath.Dir(dir)
-		if parent == dir {
-			// Reached root directory
-			fmt.Println("Warning: .env file not found")
+		// Luego intentar .env en este directorio
+		envPath = filepath.Join(currentDir, ".env")
+		if _, err := os.Stat(envPath); err == nil {
+			loadEnvFile(envPath)
 			return
 		}
-		dir = parent
+
+		parent := filepath.Dir(currentDir)
+		if parent == currentDir {
+			// Reached root directory
+			fmt.Println("Warning: .env file not found in ../env-mercado-libre-go-sdk/ or parent directories")
+			return
+		}
+		currentDir = parent
 	}
 }
 

@@ -8,7 +8,7 @@ Una librería para Go que simplifica la interacción con la **API REST de Mercad
 
 ---
 
-### Características
+## Características
 
 - **Autenticación Sencilla:** Soporte integrado para OAuth 2.0.
 - **Cobertura de la API:** Acceso a los principales _endpoints_ para artículos, usuarios, ventas y más.
@@ -27,7 +27,7 @@ go get github.com/tidyrocks/mercado-libre-go-sdk
 
 ---
 
-### ¡Contribuciones Bienvenidas\!
+### ¡Contribuciones Bienvenidas\
 
 Valoramos enormemente las contribuciones de la comunidad. Si encuentras un _bug_, tienes una idea para una nueva característica o quieres mejorar la documentación, tu ayuda es bienvenida.
 
@@ -37,9 +37,9 @@ Para mantener el proyecto organizado y garantizar un desarrollo coherente, **est
 
 Si quieres contribuir:
 
-1.  Abre un `issue` para discutir tu idea o el problema que encontraste.
-2.  Bifurca (`fork`) este repositorio y crea una nueva rama para tu contribución.
-3.  Envía un `pull request` con tus cambios y asegúrate de que pase las pruebas de CI/CD.
+1. Abre un `issue` para discutir tu idea o el problema que encontraste.
+2. Bifurca (`fork`) este repositorio y crea una nueva rama para tu contribución.
+3. Envía un `pull request` con tus cambios y asegúrate de que pase las pruebas de CI/CD.
 
 ¡Gracias de antemano por tu interés en mejorar este SDK\!
 

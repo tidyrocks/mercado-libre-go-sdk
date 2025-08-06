@@ -8,7 +8,10 @@
       "Bash(go mod:*)",
       "Bash(ls:*)",
       "Bash(find:*)",
-      "Bash(go fmt:*)"
+      "Bash(go fmt:*)",
+      "Bash(rm:*)",
+      "Bash(curl:*)",
+      "Bash(go clean:*)"
     ],
     "deny": []
   }

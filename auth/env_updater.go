@@ -55,25 +55,35 @@ func UpdateEnvFile(ctx context.Context, newAccessToken, newRefreshToken string) 
 	return nil
 }
 
-// findEnvFile busca .env subiendo por el árbol de directorios hasta root.
+// findEnvFile busca .env en ../env-mercado-libre-go-sdk/ y luego sube por el árbol.
 func findEnvFile() (string, error) {
 	dir, err := os.Getwd()
 	if err != nil {
 		return "", err
 	}
 
+	// Buscar subiendo por el árbol hasta encontrar el archivo
+	currentDir := dir
 	for {
-		envPath := filepath.Join(dir, ".env")
+		// Primero intentar ../env-mercado-libre-go-sdk/ desde este nivel
+		envDir := filepath.Join(filepath.Dir(currentDir), "env-mercado-libre-go-sdk")
+		envPath := filepath.Join(envDir, ".env")
 		if _, err := os.Stat(envPath); err == nil {
 			return envPath, nil
 		}
 
-		parent := filepath.Dir(dir)
-		if parent == dir {
-			// Reached root directory
-			return "", fmt.Errorf(".env file not found")
+		// Luego intentar .env en este directorio
+		envPath = filepath.Join(currentDir, ".env")
+		if _, err := os.Stat(envPath); err == nil {
+			return envPath, nil
 		}
-		dir = parent
+
+		parent := filepath.Dir(currentDir)
+		if parent == currentDir {
+			// Reached root directory
+			return "", fmt.Errorf(".env file not found in ../env-mercado-libre-go-sdk/ or parent directories")
+		}
+		currentDir = parent
 	}
 }
 
