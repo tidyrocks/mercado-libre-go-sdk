@@ -1,0 +1,15 @@
+module github.com/tidyrocks/mercado-libre-go-sdk
+
+go 1.23.1
+
+require (
+	github.com/stretchr/testify v1.10.0
+	gitlab.com/tidyrocks/tidy-go-common v0.0.0-20250712003656-ced4e28547be
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
