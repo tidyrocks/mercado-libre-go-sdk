@@ -2,6 +2,10 @@
 
 SDK Go para la API REST de MercadoLibre con OAuth 2.0, gestión de errores y alto rendimiento.
 
+> **⚠️ Estado de Desarrollo**  
+> Esta librería está en desarrollo activo. La API puede cambiar entre versiones.  
+> Contribuciones y feedback son bienvenidos en la rama `develop`.
+
 ## Instalación
 
 ```bash
