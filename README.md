@@ -56,4 +56,30 @@ func GetByAttrID(attrID, accessToken string) ([]AttributeValue, error)       // 
 
 **Returns:** [Attribute](attrs/types.go#L4), [TechnicalSpec](attr_groups/types.go#L4), [AttributeValue](attr_values/types.go#L4)
 
+## Pictures
+
+```go
+func Upload(fileContent []byte, filename, accessToken string) (*PictureUploadResponse, error)
+func LinkToItem(itemID, pictureID, accessToken string) error
+func GetErrors(pictureID, accessToken string) (*PictureError, error)
+func UpdateItemPictures(itemID, accessToken string, pictures []PictureRequest) error
+```
+
+**Returns:** [PictureUploadResponse](pictures/types.go#L32), [PictureError](pictures/types.go#L25), [PictureRequest](pictures/types.go#L19)
+
+## User Products
+
+```go
+func GetByID(userProductID, accessToken string) (*UserProduct, error)
+func GetFamilyByID(siteID, familyID, accessToken string) (*Family, error)
+func GetUserProductsByFamily(siteID, familyID, accessToken string) ([]UserProduct, error)
+func GetItemsByUserProduct(sellerID, userProductID, accessToken string, params []shared.KeyValue) (*ItemSearchResult, error)
+func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, accessToken string, params []shared.KeyValue) (*ItemSearchResult, error)
+func CheckEligibility(itemID, accessToken string) (bool, error)
+func GetByIDWithStock(userProductID, accessToken string) (*UserProduct, error)
+```
+
+**Params:** [shared.KeyValue](https://pkg.go.dev/gitlab.com/tidyrocks/tidy-go-common/shared#KeyValue)  
+**Returns:** [UserProduct](user_products/types.go#L6), [Family](user_products/types.go#L45), [ItemSearchResult](user_products/types.go#L25)
+
 Licencia MIT - Creado por [Gus Salazar](https://www.linkedin.com/in/gussalazar/)
