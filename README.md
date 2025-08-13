@@ -35,7 +35,6 @@ func PredictCategory(siteID, title, accessToken string, params []shared.KeyValue
 func Search(query, accessToken string, params []shared.KeyValue) ([]Category, error)
 ```
 
-**Params:** [shared.KeyValue](https://pkg.go.dev/gitlab.com/tidyrocks/tidy-go-common/shared#KeyValue)  
 **Returns:** [Category](categories/types.go#L4), [CategoryPrediction](categories/types.go#L17)
 
 ## Variations
