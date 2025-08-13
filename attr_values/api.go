@@ -13,7 +13,7 @@ const (
 )
 
 // GetTopValues usa POST en lugar de GET según especificación de ML.
-func GetTopValues(domainID, attributeID, accessToken string, params []shared.KeyValue) ([]AttributeValue, error) {
+func GetTopValues(domainID, attributeID string, params []shared.KeyValue, accessToken string) ([]AttributeValue, error) {
 	url := fmt.Sprintf("%s/catalog_domains/%s/attributes/%s/top_values", baseEndpoint, domainID, attributeID)
 
 	request := map[string]interface{}{}
@@ -24,7 +24,7 @@ func GetTopValues(domainID, attributeID, accessToken string, params []shared.Key
 }
 
 // GetTopValuesWithFilter filtra resultados usando atributos ya conocidos del producto.
-func GetTopValuesWithFilter(domainID, attributeID, accessToken string, knownAttributes []KnownAttribute) ([]AttributeValue, error) {
+func GetTopValuesWithFilter(domainID, attributeID string, knownAttributes []KnownAttribute, accessToken string) ([]AttributeValue, error) {
 	url := fmt.Sprintf("%s/catalog_domains/%s/attributes/%s/top_values", baseEndpoint, domainID, attributeID)
 
 	request := map[string]interface{}{

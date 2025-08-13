@@ -32,7 +32,7 @@ func TestGetByID(t *testing.T) {
 func TestGetBySite(t *testing.T) {
 	siteID := "MLM"
 
-	categories, err := GetBySite(siteID, testenv.AccessToken, nil)
+	categories, err := GetBySite(siteID, nil, testenv.AccessToken)
 	if err != nil {
 		t.Fatalf("Error getting categories by site: %v", err)
 	}

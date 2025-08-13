@@ -10,7 +10,7 @@ func TestGetTopValues(t *testing.T) {
 	domainID := "MLM-CELLPHONES" // Dominio de celulares en México
 	attributeID := "BRAND"       // Atributo marca
 
-	values, err := GetTopValues(domainID, attributeID, testenv.AccessToken, nil)
+	values, err := GetTopValues(domainID, attributeID, nil, testenv.AccessToken)
 	if err != nil {
 		t.Fatalf("Error getting top values: %v", err)
 	}
@@ -52,7 +52,7 @@ func TestGetTopValuesWithFilter(t *testing.T) {
 		},
 	}
 
-	values, err := GetTopValuesWithFilter(domainID, attributeID, testenv.AccessToken, knownAttributes)
+	values, err := GetTopValuesWithFilter(domainID, attributeID, knownAttributes, testenv.AccessToken)
 	if err != nil {
 		t.Fatalf("Error getting filtered top values: %v", err)
 	}

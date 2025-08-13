@@ -12,7 +12,7 @@ const (
 )
 
 // GetTechnicalSpecsInput obtiene especificaciones técnicas de entrada para una categoría.
-func GetTechnicalSpecsInput(categoryID, accessToken string) (*struct {
+func GetTechnicalSpecsInput(categoryID string, accessToken string) (*struct {
 	Groups []TechnicalSpec `json:"groups"`
 }, error) {
 	url := fmt.Sprintf("%s/categories/%s/technical_specs/input", baseEndpoint, categoryID)
@@ -28,7 +28,7 @@ func GetTechnicalSpecsInput(categoryID, accessToken string) (*struct {
 }
 
 // GetTechnicalSpecsOutput obtiene especificaciones técnicas de salida para una categoría.
-func GetTechnicalSpecsOutput(categoryID, accessToken string) (*struct {
+func GetTechnicalSpecsOutput(categoryID string, accessToken string) (*struct {
 	MainTitle string          `json:"main_title"`
 	Groups    []TechnicalSpec `json:"groups"`
 }, error) {

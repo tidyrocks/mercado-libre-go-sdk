@@ -34,7 +34,7 @@ func TestGetItemsByUserProduct(t *testing.T) {
 	sellerID := "118401678"       // Del access token
 	userProductID := "MLMU123456" // ID de ejemplo
 
-	result, err := GetItemsByUserProduct(sellerID, userProductID, testenv.AccessToken, nil)
+	result, err := GetItemsByUserProduct(sellerID, userProductID, nil, testenv.AccessToken)
 	if err != nil {
 		// Es esperado que falle si no hay user products
 		t.Logf("Expected error getting items by user product: %v", err)

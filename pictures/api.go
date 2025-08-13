@@ -12,7 +12,7 @@ const (
 )
 
 // Upload sube una imagen a los servidores de Mercado Libre.
-func Upload(fileContent []byte, filename, accessToken string) (*PictureUploadResponse, error) {
+func Upload(fileContent []byte, filename string, accessToken string) (*PictureUploadResponse, error) {
 	url := fmt.Sprintf("%s/pictures/items/upload", baseEndpoint)
 
 	var response PictureUploadResponse
@@ -25,7 +25,7 @@ func Upload(fileContent []byte, filename, accessToken string) (*PictureUploadRes
 }
 
 // LinkToItem vincula una imagen existente a un ítem.
-func LinkToItem(itemID, pictureID, accessToken string) error {
+func LinkToItem(itemID, pictureID string, accessToken string) error {
 	url := fmt.Sprintf("%s/items/%s/pictures", baseEndpoint, itemID)
 
 	request := ItemPictureLink{
@@ -37,7 +37,7 @@ func LinkToItem(itemID, pictureID, accessToken string) error {
 }
 
 // GetErrors obtiene los errores de procesamiento de una imagen.
-func GetErrors(pictureID, accessToken string) (*PictureError, error) {
+func GetErrors(pictureID string, accessToken string) (*PictureError, error) {
 	url := fmt.Sprintf("%s/pictures/%s/errors", baseEndpoint, pictureID)
 
 	var response struct {
@@ -61,7 +61,7 @@ func GetErrors(pictureID, accessToken string) (*PictureError, error) {
 }
 
 // UpdateItemPictures reemplaza todas las imágenes existentes del ítem.
-func UpdateItemPictures(itemID, accessToken string, pictures []PictureRequest) error {
+func UpdateItemPictures(itemID string, pictures []PictureRequest, accessToken string) error {
 	url := fmt.Sprintf("%s/items/%s", baseEndpoint, itemID)
 
 	request := map[string]interface{}{

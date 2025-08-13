@@ -12,7 +12,7 @@ const (
 )
 
 // GetByItemID obtiene todas las variaciones de un ítem.
-func GetByItemID(itemID, accessToken string) ([]Variation, error) {
+func GetByItemID(itemID string, accessToken string) ([]Variation, error) {
 	url := fmt.Sprintf("%s/items/%s/variations", baseEndpoint, itemID)
 	var variations []Variation
 	err := httpx.DoGetJSON(context.Background(), url, accessToken, &variations)
@@ -20,7 +20,7 @@ func GetByItemID(itemID, accessToken string) ([]Variation, error) {
 }
 
 // GetByID obtiene una variación específica de un ítem.
-func GetByID(itemID, variationID, accessToken string) (*Variation, error) {
+func GetByID(itemID, variationID string, accessToken string) (*Variation, error) {
 	url := fmt.Sprintf("%s/items/%s/variations/%s", baseEndpoint, itemID, variationID)
 	var variation Variation
 	err := httpx.DoGetJSON(context.Background(), url, accessToken, &variation)
@@ -31,7 +31,7 @@ func GetByID(itemID, variationID, accessToken string) (*Variation, error) {
 }
 
 // GetByItemIDWithAttributes incluye atributos completos en la respuesta.
-func GetByItemIDWithAttributes(itemID, accessToken string) ([]Variation, error) {
+func GetByItemIDWithAttributes(itemID string, accessToken string) ([]Variation, error) {
 	url := fmt.Sprintf("%s/items/%s/variations?include_attributes=all", baseEndpoint, itemID)
 	var variations []Variation
 	err := httpx.DoGetJSON(context.Background(), url, accessToken, &variations)
@@ -39,7 +39,7 @@ func GetByItemIDWithAttributes(itemID, accessToken string) ([]Variation, error) 
 }
 
 // GetByIDWithAttributes incluye atributos completos en la respuesta.
-func GetByIDWithAttributes(itemID, variationID, accessToken string) (*Variation, error) {
+func GetByIDWithAttributes(itemID, variationID string, accessToken string) (*Variation, error) {
 	url := fmt.Sprintf("%s/items/%s/variations/%s?include_attributes=all", baseEndpoint, itemID, variationID)
 	var variation Variation
 	err := httpx.DoGetJSON(context.Background(), url, accessToken, &variation)
