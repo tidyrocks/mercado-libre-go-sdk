@@ -10,20 +10,24 @@ go get github.com/tidyrocks/mercado-libre-go-sdk
 
 ## Autenticación
 
+**Refresh access token**
 ```go
-// Refresh access token
-func RefreshAccessToken(ctx context.Context, clientID, clientSecret, refreshToken string) (*[RefreshTokenResponse](auth/types.go#L12), error)
+func RefreshAccessToken(ctx context.Context, clientID, clientSecret, refreshToken string) (*RefreshTokenResponse, error)
+```
+→ Returns: [RefreshTokenResponse](auth/types.go#L12)
 
-// Validate access token
+**Validate access token**
+```go
 func ValidateAccessToken(ctx context.Context, accessToken string) error
 ```
 
 ## Items
 
+**Get item by ID**
 ```go
-// Get item by ID
-func GetByID(ctx context.Context, itemID, accessToken string) ([Item](items/types.go#L6), error)
+func GetByID(ctx context.Context, itemID, accessToken string) (Item, error)
 ```
+→ Returns: [Item](items/types.go#L6)
 
 ## Categories
 
