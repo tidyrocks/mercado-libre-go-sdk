@@ -1,56 +1,70 @@
 # Mercado Libre Go SDK
 
-[](https://www.google.com/search?q=https://pkg.go.dev/github.com/tidyrocks/mercado-libre-go-sdk)
-[](https://www.google.com/search?q=https://github.com/tidyrocks/mercado-libre-go-sdk/actions/workflows/ci.yml)
-[](https://opensource.org/licenses/MIT)
+SDK Go para la API REST de MercadoLibre con OAuth 2.0, gestión de errores y alto rendimiento.
 
-Una librería para Go que simplifica la interacción con la **API REST de Mercado Libre**. Este SDK está diseñado para ayudar a los desarrolladores a construir aplicaciones de manera rápida y eficiente, manejando la autenticación, las peticiones HTTP y la gestión de respuestas de la API.
-
----
-
-## Características
-
-- **Autenticación Sencilla:** Soporte integrado para OAuth 2.0.
-- **Cobertura de la API:** Acceso a los principales _endpoints_ para artículos, usuarios, ventas y más.
-- **Gestión de Errores:** Manejo robusto de errores de la API.
-- **Alto Rendimiento:** Diseñado para ser eficiente y escalable en aplicaciones de Go.
-
----
-
-### Instalación
-
-Para añadir el SDK a tu proyecto, simplemente usa el comando `go get`:
+## Instalación
 
 ```bash
 go get github.com/tidyrocks/mercado-libre-go-sdk
 ```
 
----
+## Autenticación
 
-### ¡Contribuciones Bienvenidas\
+```go
+// Refresh access token
+func RefreshAccessToken(ctx context.Context, clientID, clientSecret, refreshToken string) (*[RefreshTokenResponse](auth/types.go#L12), error)
 
-Valoramos enormemente las contribuciones de la comunidad. Si encuentras un _bug_, tienes una idea para una nueva característica o quieres mejorar la documentación, tu ayuda es bienvenida.
+// Validate access token
+func ValidateAccessToken(ctx context.Context, accessToken string) error
+```
 
-**¿Por qué un solo lugar para las contribuciones?**
+## Items
 
-Para mantener el proyecto organizado y garantizar un desarrollo coherente, **este repositorio de GitHub es el hub principal para todas las contribuciones**. Aunque el código pueda estar espejado en otras plataformas (como GitLab), la gestión de `issues` y `pull requests` se realiza exclusivamente aquí. Esto nos permite tener un único punto de verdad para las discusiones, las revisiones de código y el historial de cambios.
+```go
+// Get item by ID
+func GetByID(ctx context.Context, itemID, accessToken string) ([Item](items/types.go#L6), error)
+```
 
-Si quieres contribuir:
+## Categories
 
-1. Abre un `issue` para discutir tu idea o el problema que encontraste.
-2. Bifurca (`fork`) este repositorio y crea una nueva rama para tu contribución.
-3. Envía un `pull request` con tus cambios y asegúrate de que pase las pruebas de CI/CD.
+```go
+// Get category by ID
+func GetByID(id, accessToken string) (*[Category](categories/types.go#L4), error)
 
-¡Gracias de antemano por tu interés en mejorar este SDK\!
+// Get categories by site
+func GetBySite(siteID, accessToken string, params []shared.KeyValue) ([][Category](categories/types.go#L4), error)
 
----
+// Get child categories
+func GetChildren(categoryID, accessToken string) ([][Category](categories/types.go#L4), error)
 
-### Licencia
+// Predict category from title using ML
+func PredictCategory(siteID, title, accessToken string, params []shared.KeyValue) ([][CategoryPrediction](categories/types.go#L17), error)
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para más detalles.
+// Search categories
+func Search(query, accessToken string, params []shared.KeyValue) ([][Category](categories/types.go#L4), error)
+```
 
----
+## Variations
 
-### Sobre el creador
+```go
+// Get all variations for an item
+func GetByItemID(itemID, accessToken string) ([][Variation](variations/types.go#L6), error)
 
-Esta librería fue creada y es mantenida por **Gus Salazar**. Puedes conectar con él a través de su perfil de LinkedIn: [Gus Salazar en LinkedIn](https://www.linkedin.com/in/gussalazar/).
+// Get specific variation
+func GetByID(itemID, variationID, accessToken string) (*[Variation](variations/types.go#L6), error)
+```
+
+## Attributes
+
+```go
+// Get attributes by category
+func GetByCategoryID(categoryID, accessToken string) ([][Attribute](attrs/types.go#L4), error)
+
+// Get attribute groups
+func GetByCategoryID(categoryID, accessToken string) ([][TechnicalSpec](attr_groups/types.go#L4), error)
+
+// Get attribute values
+func GetByAttrID(attrID, accessToken string) ([][AttributeValue](attr_values/types.go#L4), error)
+```
+
+Licencia MIT - Creado por [Gus Salazar](https://www.linkedin.com/in/gussalazar/)
