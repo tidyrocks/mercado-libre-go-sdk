@@ -33,10 +33,10 @@ func GetByID(ctx context.Context, itemID, accessToken string) (Item, error)
 
 ```go
 func GetByID(id string, accessToken string) (*Category, error)
-func GetBySite(siteID string, params []shared.KeyValue, accessToken string) ([]Category, error)
+func GetBySite(siteID string, params url.Values, accessToken string) ([]Category, error)
 func GetChildren(categoryID string, accessToken string) ([]Category, error)
-func PredictCategory(siteID, title string, params []shared.KeyValue, accessToken string) ([]CategoryPrediction, error)
-func Search(query string, params []shared.KeyValue, accessToken string) ([]Category, error)
+func PredictCategory(siteID, title string, params url.Values, accessToken string) ([]CategoryPrediction, error)
+func Search(query string, params url.Values, accessToken string) ([]Category, error)
 ```
 
 **Returns:** [Category](categories/types.go#L4), [CategoryPrediction](categories/types.go#L17)
@@ -56,7 +56,7 @@ func GetByItemIDWithAttributes(itemID string, accessToken string) ([]Variation, 
 func GetByCategoryID(categoryID string, accessToken string) ([]Attribute, error)                      // attrs
 func GetTechnicalSpecsInput(categoryID string, accessToken string) (*TechnicalSpecsResponse, error)    // attr_groups
 func GetTechnicalSpecsOutput(categoryID string, accessToken string) (*TechnicalSpecsOutputResponse, error) // attr_groups
-func GetTopValues(domainID, attributeID string, params []shared.KeyValue, accessToken string) ([]AttributeValue, error) // attr_values
+func GetTopValues(domainID, attributeID string, params url.Values, accessToken string) ([]AttributeValue, error) // attr_values
 func GetTopValuesWithFilter(domainID, attributeID string, knownAttributes []KnownAttribute, accessToken string) ([]AttributeValue, error) // attr_values
 ```
 
@@ -79,13 +79,13 @@ func UpdateItemPictures(itemID string, pictures []PictureRequest, accessToken st
 func GetByID(userProductID string, accessToken string) (*UserProduct, error)
 func GetFamilyByID(siteID, familyID string, accessToken string) (*Family, error)
 func GetUserProductsByFamily(siteID, familyID string, accessToken string) ([]UserProduct, error)
-func GetItemsByUserProduct(sellerID, userProductID string, params []shared.KeyValue, accessToken string) (*ItemSearchResult, error)
-func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, params []shared.KeyValue, accessToken string) (*ItemSearchResult, error)
+func GetItemsByUserProduct(sellerID, userProductID string, params url.Values, accessToken string) (*ItemSearchResult, error)
+func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, params url.Values, accessToken string) (*ItemSearchResult, error)
 func CheckEligibility(itemID string, accessToken string) (bool, error)
 func GetByIDWithStock(userProductID string, accessToken string) (*UserProduct, error)
 ```
 
-**Params:** [shared.KeyValue](https://pkg.go.dev/gitlab.com/tidyrocks/tidy-go-common/shared#KeyValue)  
+**Params:** [url.Values](https://pkg.go.dev/net/url#Values)  
 **Returns:** [UserProduct](user_products/types.go#L6), [Family](user_products/types.go#L45), [ItemSearchResult](user_products/types.go#L25)
 
 Licencia MIT - Creado por [Gus Salazar](https://www.linkedin.com/in/gussalazar/)

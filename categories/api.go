@@ -3,9 +3,9 @@ package categories
 import (
 	"context"
 	"fmt"
+	"net/url"
 
 	"github.com/tidyrocks/mercado-libre-go-sdk/internal/httpx"
-	"gitlab.com/tidyrocks/tidy-go-common/shared"
 )
 
 const (
@@ -26,10 +26,10 @@ func GetByID(id string, accessToken string) (*Category, error) {
 }
 
 // GetBySite obtiene las categorías de un sitio específico.
-func GetBySite(siteID string, params []shared.KeyValue, accessToken string) ([]Category, error) {
-	url := fmt.Sprintf("%s/%s/categories", sitesEndpoint, siteID)
+func GetBySite(siteID string, params url.Values, accessToken string) ([]Category, error) {
+	baseURL := fmt.Sprintf("%s/%s/categories", sitesEndpoint, siteID)
 	var categories []Category
-	err := httpx.DoGetJSONWithParams(context.Background(), url, accessToken, params, &categories)
+	err := httpx.DoGetJSONWithParams(context.Background(), baseURL, accessToken, params, &categories)
 	return categories, err
 }
 
@@ -44,30 +44,34 @@ func GetChildren(categoryID string, accessToken string) ([]Category, error) {
 }
 
 // PredictCategory utiliza algoritmos ML para sugerir categorías desde el título.
-func PredictCategory(siteID, title string, params []shared.KeyValue, accessToken string) ([]CategoryPrediction, error) {
-	url := fmt.Sprintf("%s/%s/category_predictor/predict", sitesEndpoint, siteID)
+func PredictCategory(siteID, title string, params url.Values, accessToken string) ([]CategoryPrediction, error) {
+	baseURL := fmt.Sprintf("%s/%s/category_predictor/predict", sitesEndpoint, siteID)
 
 	// Agregar el título como parámetro
-	titleParam := shared.KeyValue{Key: "title", Value: title}
-	allParams := append([]shared.KeyValue{titleParam}, params...)
+	if params == nil {
+		params = url.Values{}
+	}
+	params.Add("title", title)
 
 	var predictions []CategoryPrediction
-	err := httpx.DoGetJSONWithParams(context.Background(), url, accessToken, allParams, &predictions)
+	err := httpx.DoGetJSONWithParams(context.Background(), baseURL, accessToken, params, &predictions)
 	return predictions, err
 }
 
 // Search busca categorías por query.
-func Search(query string, params []shared.KeyValue, accessToken string) ([]Category, error) {
-	url := fmt.Sprintf("%s/search", categoriesEndpoint)
+func Search(query string, params url.Values, accessToken string) ([]Category, error) {
+	baseURL := fmt.Sprintf("%s/search", categoriesEndpoint)
 
 	// Agregar el query como parámetro
-	queryParam := shared.KeyValue{Key: "q", Value: query}
-	allParams := append([]shared.KeyValue{queryParam}, params...)
+	if params == nil {
+		params = url.Values{}
+	}
+	params.Add("q", query)
 
 	var response struct {
 		Results []Category `json:"results"`
 	}
-	err := httpx.DoGetJSONWithParams(context.Background(), url, accessToken, allParams, &response)
+	err := httpx.DoGetJSONWithParams(context.Background(), baseURL, accessToken, params, &response)
 	return response.Results, err
 }
 

@@ -3,9 +3,9 @@ package user_products
 import (
 	"context"
 	"fmt"
+	"net/url"
 
 	"github.com/tidyrocks/mercado-libre-go-sdk/internal/httpx"
-	"gitlab.com/tidyrocks/tidy-go-common/shared"
 )
 
 const (
@@ -43,25 +43,27 @@ func GetUserProductsByFamily(siteID, familyID string, accessToken string) ([]Use
 }
 
 // GetItemsByUserProduct obtiene todos los ítems asociados a un User Product.
-func GetItemsByUserProduct(sellerID, userProductID string, params []shared.KeyValue, accessToken string) (*ItemSearchResult, error) {
-	url := fmt.Sprintf("%s/users/%s/items/search", baseEndpoint, sellerID)
+func GetItemsByUserProduct(sellerID, userProductID string, params url.Values, accessToken string) (*ItemSearchResult, error) {
+	baseURL := fmt.Sprintf("%s/users/%s/items/search", baseEndpoint, sellerID)
 
 	// Agregar user_product_id como parámetro
-	userProductParam := shared.KeyValue{Key: "user_product_id", Value: userProductID}
-	allParams := append([]shared.KeyValue{userProductParam}, params...)
+	if params == nil {
+		params = url.Values{}
+	}
+	params.Add("user_product_id", userProductID)
 
 	var result ItemSearchResult
-	err := httpx.DoGetJSONWithParams(context.Background(), url, accessToken, allParams, &result)
+	err := httpx.DoGetJSONWithParams(context.Background(), baseURL, accessToken, params, &result)
 	return &result, err
 }
 
 // GetItemsByMultipleUserProducts acepta lista vacía y retorna resultado vacío sin error.
-func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, params []shared.KeyValue, accessToken string) (*ItemSearchResult, error) {
+func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, params url.Values, accessToken string) (*ItemSearchResult, error) {
 	if len(userProductIDs) == 0 {
 		return &ItemSearchResult{}, nil
 	}
 
-	url := fmt.Sprintf("%s/users/%s/items/search", baseEndpoint, sellerID)
+	baseURL := fmt.Sprintf("%s/users/%s/items/search", baseEndpoint, sellerID)
 
 	// Crear lista de user_product_ids separados por coma
 	var userProductsList string
@@ -73,11 +75,13 @@ func GetItemsByMultipleUserProducts(sellerID string, userProductIDs []string, pa
 	}
 
 	// Agregar user_product_ids como parámetro
-	userProductParam := shared.KeyValue{Key: "user_product_id", Value: userProductsList}
-	allParams := append([]shared.KeyValue{userProductParam}, params...)
+	if params == nil {
+		params = url.Values{}
+	}
+	params.Add("user_product_id", userProductsList)
 
 	var result ItemSearchResult
-	err := httpx.DoGetJSONWithParams(context.Background(), url, accessToken, allParams, &result)
+	err := httpx.DoGetJSONWithParams(context.Background(), baseURL, accessToken, params, &result)
 	return &result, err
 }
 

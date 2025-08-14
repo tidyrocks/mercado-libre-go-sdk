@@ -8,8 +8,6 @@ import (
 	"mime/multipart"
 	"net/http"
 	"net/url"
-
-	"gitlab.com/tidyrocks/tidy-go-common/shared"
 )
 
 // DoGetJSON agrega Bearer token si se provee y decodifica respuesta.
@@ -37,7 +35,7 @@ func DoGetJSON[T any](ctx context.Context, url, token string, target *T) error {
 }
 
 // DoGetJSONWithParams hace GET con query parameters, token opcional y decodifica en target.
-func DoGetJSONWithParams[T any](ctx context.Context, baseURL, token string, params []shared.KeyValue, target *T) error {
+func DoGetJSONWithParams[T any](ctx context.Context, baseURL, token string, params url.Values, target *T) error {
 	u, err := url.Parse(baseURL)
 	if err != nil {
 		return err
@@ -45,8 +43,10 @@ func DoGetJSONWithParams[T any](ctx context.Context, baseURL, token string, para
 
 	if len(params) > 0 {
 		query := u.Query()
-		for _, param := range params {
-			query.Add(param.Key, param.Value)
+		for key, values := range params {
+			for _, value := range values {
+				query.Add(key, value)
+			}
 		}
 		u.RawQuery = query.Encode()
 	}
