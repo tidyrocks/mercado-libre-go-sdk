@@ -1,0 +1,5276 @@
+{
+  "id": "MLM710148475",
+  "site_id": "MLM",
+  "title": "Vestido Corte Mullet Hombros Descubierto Manga Corta",
+  "price": 298,
+  "base_price": 298,
+  "currency_id": "MXN",
+  "initial_quantity": 21590,
+  "available_quantity": 180,
+  "sold_quantity": 21410,
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "condition": "new",
+  "status": "active",
+  "date_created": "2019-08-20T22:39:07Z",
+  "last_updated": "2025-08-15T07:09:30.194Z",
+  "category_id": "MLM112156",
+  "seller_id": 118401678,
+  "domain_id": "MLM-DRESSES",
+  "permalink": "https://articulo.mercadolibre.com.mx/MLM-710148475-vestido-corte-mullet-hombros-descubierto-manga-corta-_JM",
+  "thumbnail_id": "766649-MLM84511076449_052025",
+  "thumbnail": "http://http2.mlstatic.com/D_766649-MLM84511076449_052025-I.jpg",
+  "health": 0.66,
+  "catalog_listing": false,
+  "accepts_mercadopago": true,
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": false,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "tags": [
+    "brand_verified",
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "channels": [
+    "marketplace"
+  ],
+  "variations": [
+    {
+      "id": 174294713814,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 4,
+      "sold_quantity": 179,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "IIMN73915",
+      "user_product_id": "MLMU724120858"
+    },
+    {
+      "id": 174294713815,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 105,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "PWKB74952",
+      "user_product_id": "MLMU724124242"
+    },
+    {
+      "id": 174294713816,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 6,
+      "sold_quantity": 139,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "BBBX72752",
+      "user_product_id": "MLMU724122360"
+    },
+    {
+      "id": 174294713817,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "user_product_id": "MLMU721300029"
+    },
+    {
+      "id": 174294713818,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 7,
+      "sold_quantity": 162,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "CRMT74395",
+      "user_product_id": "MLMU724119894"
+    },
+    {
+      "id": 174294713819,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 11,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "JOMW01648",
+      "user_product_id": "MLMU724122362"
+    },
+    {
+      "id": 174294713820,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Fucsia",
+          "values": [
+            {
+              "id": "52042",
+              "name": "Fucsia",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52042"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 9,
+      "sold_quantity": 133,
+      "picture_ids": [
+        "766649-MLM84511076449_052025",
+        "926770-MLM84477035035_052025"
+      ],
+      "inventory_id": "AVOX73856",
+      "user_product_id": "MLMU721287681"
+    },
+    {
+      "id": 174850310738,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 10,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "inventory_id": "LBWR35916",
+      "user_product_id": "MLMU721294441"
+    },
+    {
+      "id": 174850310739,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "user_product_id": "MLMU721289085"
+    },
+    {
+      "id": 174850310740,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 7,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "inventory_id": "CNIA77729",
+      "user_product_id": "MLMU721298023"
+    },
+    {
+      "id": 174850310741,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "user_product_id": "MLMU721291047"
+    },
+    {
+      "id": 174850310742,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 14,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "inventory_id": "SOZP35679",
+      "user_product_id": "MLMU724122364"
+    },
+    {
+      "id": 174850310743,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "user_product_id": "MLMU721285901"
+    },
+    {
+      "id": 174850310744,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Plateado",
+          "values": [
+            {
+              "id": "52053",
+              "name": "Plateado",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52053"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 12,
+      "picture_ids": [
+        "828587-MLM84276930446_052025",
+        "849615-MLM50803444376_072022",
+        "829903-MLM50803410568_072022",
+        "786799-MLM50803425436_072022",
+        "731272-MLM50803328661_072022",
+        "936584-MLM50803483218_072022",
+        "798799-MLM50803422457_072022",
+        "700382-MLM50803476260_072022",
+        "947389-MLM50803422458_072022"
+      ],
+      "inventory_id": "VEOI34632",
+      "user_product_id": "MLMU724122366"
+    },
+    {
+      "id": 175152530421,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 4,
+      "sold_quantity": 63,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "CWLS36274",
+      "user_product_id": "MLMU721300035"
+    },
+    {
+      "id": 175152530422,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 79,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "GCSM35565",
+      "user_product_id": "MLMU721292451"
+    },
+    {
+      "id": 175152530423,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 12,
+      "sold_quantity": 49,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "EOQH35900",
+      "user_product_id": "MLMU721289093"
+    },
+    {
+      "id": 175152530424,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "user_product_id": "MLMU721291049"
+    },
+    {
+      "id": 175152530425,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 77,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "RLGO35916",
+      "user_product_id": "MLMU721296273"
+    },
+    {
+      "id": 175152530426,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 31,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "SLEB20792",
+      "user_product_id": "MLMU721298031"
+    },
+    {
+      "id": 175152530427,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta claro",
+          "values": [
+            {
+              "id": null,
+              "name": "Violeta claro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 45,
+      "picture_ids": [
+        "684609-MLM84481117911_052025",
+        "717538-MLM84471572539_052025",
+        "742916-MLM84175041310_052025"
+      ],
+      "inventory_id": "KXIO36647",
+      "user_product_id": "MLMU721291053"
+    },
+    {
+      "id": 44248871200,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 31,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46536",
+      "inventory_id": "RWUL75869",
+      "user_product_id": "MLMU724120732"
+    },
+    {
+      "id": 44248871208,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 48,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46534",
+      "inventory_id": "JEAB76875",
+      "user_product_id": "MLMU724117906"
+    },
+    {
+      "id": 44248871216,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 31,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46532",
+      "inventory_id": "HUAE00552",
+      "user_product_id": "MLMU721287535"
+    },
+    {
+      "id": 44248871224,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 57,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46535",
+      "inventory_id": "JFLO01372",
+      "user_product_id": "MLMU721294257"
+    },
+    {
+      "id": 44248871232,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 494,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46530",
+      "inventory_id": "LIJX76211",
+      "user_product_id": "MLMU721285729"
+    },
+    {
+      "id": 44248871240,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 42,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46533",
+      "inventory_id": "NVMJ01184",
+      "user_product_id": "MLMU721296113"
+    },
+    {
+      "id": 44248871246,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 4,
+      "sold_quantity": 810,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46531",
+      "inventory_id": "TJRU76118",
+      "user_product_id": "MLMU721294251"
+    },
+    {
+      "id": 44248871250,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 11,
+      "sold_quantity": 1210,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46527",
+      "inventory_id": "MRUS76187",
+      "user_product_id": "MLMU721288885"
+    },
+    {
+      "id": 44248871254,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 10,
+      "sold_quantity": 417,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46529",
+      "inventory_id": "JRBO01505",
+      "user_product_id": "MLMU721292323"
+    },
+    {
+      "id": 44248871261,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 445,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46528",
+      "inventory_id": "UCQM78247",
+      "user_product_id": "MLMU724122166"
+    },
+    {
+      "id": 44248871269,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 884,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46525",
+      "inventory_id": "ESDA00575",
+      "user_product_id": "MLMU724124090"
+    },
+    {
+      "id": 44248871277,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 14,
+      "sold_quantity": 1039,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46526",
+      "inventory_id": "UFUO77937",
+      "user_product_id": "MLMU724122170"
+    },
+    {
+      "id": 44248871283,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 3,
+      "sold_quantity": 995,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46524",
+      "inventory_id": "ULEA01496",
+      "user_product_id": "MLMU724120678"
+    },
+    {
+      "id": 44248871287,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 694,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46523",
+      "inventory_id": "AUGJ76749",
+      "user_product_id": "MLMU724122232"
+    },
+    {
+      "id": 44248871295,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 6,
+      "sold_quantity": 1600,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46522",
+      "inventory_id": "WCJF79838",
+      "user_product_id": "MLMU721292333"
+    },
+    {
+      "id": 44248871304,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 9,
+      "sold_quantity": 857,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46521",
+      "inventory_id": "HCWE00523",
+      "user_product_id": "MLMU721292309"
+    },
+    {
+      "id": 44248871311,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 539,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46520",
+      "inventory_id": "RLWO78782",
+      "user_product_id": "MLMU724119752"
+    },
+    {
+      "id": 44248871321,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 15,
+      "sold_quantity": 752,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46519",
+      "inventory_id": "ESDV00466",
+      "user_product_id": "MLMU721292291"
+    },
+    {
+      "id": 44248871329,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 11,
+      "sold_quantity": 1313,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46517",
+      "inventory_id": "PIRM76501",
+      "user_product_id": "MLMU724117890"
+    },
+    {
+      "id": 44248871337,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 520,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46518",
+      "inventory_id": "AUGJ76731",
+      "user_product_id": "MLMU724120722"
+    },
+    {
+      "id": 44248871345,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 19,
+      "sold_quantity": 762,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46516",
+      "inventory_id": "FKGJ01630",
+      "user_product_id": "MLMU721296129"
+    },
+    {
+      "id": 44248871356,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 488,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46515",
+      "inventory_id": "RMOA76950",
+      "user_product_id": "MLMU721296077"
+    },
+    {
+      "id": 44248871364,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 7,
+      "sold_quantity": 540,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46514",
+      "inventory_id": "WTEQ76899",
+      "user_product_id": "MLMU721287581"
+    },
+    {
+      "id": 44248871368,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 396,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46513",
+      "inventory_id": "JIEQ01431",
+      "user_product_id": "MLMU724119722"
+    },
+    {
+      "id": 44248871373,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 14,
+      "sold_quantity": 962,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46512",
+      "inventory_id": "QJEG00534",
+      "user_product_id": "MLMU724122246"
+    },
+    {
+      "id": 44248871377,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 264,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46510",
+      "inventory_id": "PPBH77169",
+      "user_product_id": "MLMU724122206"
+    },
+    {
+      "id": 44248871381,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 254,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46509",
+      "inventory_id": "FZZJ76932",
+      "user_product_id": "MLMU721296089"
+    },
+    {
+      "id": 44248871385,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 505,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46511",
+      "inventory_id": "FHUT75797",
+      "user_product_id": "MLMU724115856"
+    },
+    {
+      "id": 44248871389,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 2,
+      "sold_quantity": 321,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46508",
+      "inventory_id": "PHTB75135",
+      "user_product_id": "MLMU721296095"
+    },
+    {
+      "id": 44248871393,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 4,
+      "sold_quantity": 771,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46507",
+      "inventory_id": "ADJX76834",
+      "user_product_id": "MLMU721285699"
+    },
+    {
+      "id": 44248871397,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rojo",
+          "values": [
+            {
+              "id": "51993",
+              "name": "Rojo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51993"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 54,
+      "picture_ids": [
+        "836366-MLM84510293687_052025",
+        "822787-MLM84179183064_052025"
+      ],
+      "seller_custom_field": "46506",
+      "inventory_id": "SGSO78164",
+      "user_product_id": "MLMU721288917"
+    },
+    {
+      "id": 44248871401,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Negro",
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52049"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 6,
+      "sold_quantity": 77,
+      "picture_ids": [
+        "976135-MLM84489607443_052025",
+        "908820-MLM84474945171_052025"
+      ],
+      "seller_custom_field": "46504",
+      "inventory_id": "VZVA01483",
+      "user_product_id": "MLMU724117896"
+    },
+    {
+      "id": 44248871405,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Bordó",
+          "values": [
+            {
+              "id": "51998",
+              "name": "Bordó",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51998"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 99,
+      "picture_ids": [
+        "865089-MLM84184333104_052025",
+        "744205-MLM84473879685_052025"
+      ],
+      "seller_custom_field": "46505",
+      "inventory_id": "ZGRU00497",
+      "user_product_id": "MLMU724124102"
+    },
+    {
+      "id": 44248871410,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul",
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52028"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 28,
+      "picture_ids": [
+        "919283-MLM84489588247_052025",
+        "726994-MLM84475059329_052025"
+      ],
+      "seller_custom_field": "46503",
+      "inventory_id": "MJWQ01496",
+      "user_product_id": "MLMU721287563"
+    },
+    {
+      "id": 44248871414,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul marino",
+          "values": [
+            {
+              "id": "283161",
+              "name": "Azul marino",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "283161"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 15,
+      "picture_ids": [
+        "659181-MLM84511046179_052025",
+        "981879-MLM84178842238_052025"
+      ],
+      "seller_custom_field": "46502",
+      "inventory_id": "ARBY77667",
+      "user_product_id": "MLMU721294313"
+    },
+    {
+      "id": 87950844909,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 13,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "LNES62381",
+      "user_product_id": "MLMU721290863"
+    },
+    {
+      "id": 87950844913,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "EDHV63630",
+      "user_product_id": "MLMU724115912"
+    },
+    {
+      "id": 87950844919,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 14,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "UFOP62979",
+      "user_product_id": "MLMU721288941"
+    },
+    {
+      "id": 87950844923,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 17,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "BODM62254",
+      "user_product_id": "MLMU721290927"
+    },
+    {
+      "id": 87950844927,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 14,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "YUXQ63121",
+      "user_product_id": "MLMU724117910"
+    },
+    {
+      "id": 87950844931,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 13,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "GHEH66536",
+      "user_product_id": "MLMU721292341"
+    },
+    {
+      "id": 87950844935,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Violeta oscuro",
+          "values": [
+            {
+              "id": "52047",
+              "name": "Violeta oscuro",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52047"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 14,
+      "picture_ids": [
+        "864470-MLM84584863887_052025"
+      ],
+      "inventory_id": "DLTY63355",
+      "user_product_id": "MLMU724122256"
+    },
+    {
+      "id": 89229199074,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 57,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "YCIS76346",
+      "user_product_id": "MLMU724120744"
+    },
+    {
+      "id": 89229199079,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 39,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "MZLX70338",
+      "user_product_id": "MLMU724115920"
+    },
+    {
+      "id": 89229199084,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 90,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "NJYH73498",
+      "user_product_id": "MLMU721294279"
+    },
+    {
+      "id": 89229199090,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 91,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "CVOB71469",
+      "user_product_id": "MLMU721292345"
+    },
+    {
+      "id": 89229199097,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 60,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "NVMJ74221",
+      "user_product_id": "MLMU724122260"
+    },
+    {
+      "id": 89229199103,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 17,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "EVFY73272",
+      "user_product_id": "MLMU724122264"
+    },
+    {
+      "id": 89229199112,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Amarillo",
+          "values": [
+            {
+              "id": "52007",
+              "name": "Amarillo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52007"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 84,
+      "picture_ids": [
+        "615075-MLM84519483677_052025"
+      ],
+      "inventory_id": "GXBW71242",
+      "user_product_id": "MLMU724124128"
+    },
+    {
+      "id": 90667172742,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 192,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "OKWS77888",
+      "user_product_id": "MLMU721285893"
+    },
+    {
+      "id": 90667172746,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 270,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "CASZ78268",
+      "user_product_id": "MLMU724120656"
+    },
+    {
+      "id": 90667172750,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 54,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "VBRO79581",
+      "user_product_id": "MLMU724119680"
+    },
+    {
+      "id": 90667172754,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 246,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "NHCI75869",
+      "user_product_id": "MLMU724119666"
+    },
+    {
+      "id": 90667172758,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 212,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "WJUW77050",
+      "user_product_id": "MLMU721289073"
+    },
+    {
+      "id": 90667172762,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 13,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "LOSR75616",
+      "user_product_id": "MLMU724122350"
+    },
+    {
+      "id": 90667172766,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Azul petróleo",
+          "values": [
+            {
+              "id": "52024",
+              "name": "Azul petróleo",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "52024"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 208,
+      "picture_ids": [
+        "828294-MLM84483481871_052025",
+        "750829-MLM84473071845_052025"
+      ],
+      "inventory_id": "CTSS75797",
+      "user_product_id": "MLMU721296093"
+    },
+    {
+      "id": 93340248837,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "32. M (mediana)",
+          "values": [
+            {
+              "id": null,
+              "name": "32. M (mediana)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 63,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "DNTX92469",
+      "user_product_id": "MLMU724124062"
+    },
+    {
+      "id": 93340248841,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "38, XL o EG (extra grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "38, XL o EG (extra grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 29,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "HJOY91205",
+      "user_product_id": "MLMU724120850"
+    },
+    {
+      "id": 93340248848,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "40, XXL o EEG (extra grande x2)",
+          "values": [
+            {
+              "id": null,
+              "name": "40, XXL o EEG (extra grande x2)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 52,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "HRFM91723",
+      "user_product_id": "MLMU724122356"
+    },
+    {
+      "id": 93340248857,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "26, XS, o ECH (extra chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "26, XS, o ECH (extra chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 0,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "ACBY91233",
+      "user_product_id": "MLMU721292439"
+    },
+    {
+      "id": 93340248864,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "36, L o G (grande)",
+          "values": [
+            {
+              "id": null,
+              "name": "36, L o G (grande)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 55,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "ZGRU91438",
+      "user_product_id": "MLMU721289079"
+    },
+    {
+      "id": 93340248871,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "42, XXXL o EEEG (extra grande x3)",
+          "values": [
+            {
+              "id": null,
+              "name": "42, XXXL o EEEG (extra grande x3)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 7,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "JKDB93823",
+      "user_product_id": "MLMU724120854"
+    },
+    {
+      "id": 93340248878,
+      "price": 298,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_type": "string",
+          "value_name": "Rosa",
+          "values": [
+            {
+              "id": "51994",
+              "name": "Rosa",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null,
+          "value_id": "51994"
+        },
+        {
+          "id": "SIZE",
+          "name": "Talla",
+          "value_type": "string",
+          "value_name": "28. S, o CH (chica)",
+          "values": [
+            {
+              "id": null,
+              "name": "28. S, o CH (chica)",
+              "struct": null,
+              "metric": null
+            }
+          ],
+          "allowed_units": null,
+          "suggested_values": null,
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "tags": null
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 56,
+      "picture_ids": [
+        "945344-MLM84263183972_052025"
+      ],
+      "inventory_id": "IZKO93224",
+      "user_product_id": "MLMU724124240"
+    }
+  ],
+  "pictures": [
+    {
+      "id": "684609-MLM84481117911_052025",
+      "url": "http://http2.mlstatic.com/D_684609-MLM84481117911_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_684609-MLM84481117911_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "717538-MLM84471572539_052025",
+      "url": "http://http2.mlstatic.com/D_717538-MLM84471572539_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_717538-MLM84471572539_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1108x1200",
+      "quality": ""
+    },
+    {
+      "id": "742916-MLM84175041310_052025",
+      "url": "http://http2.mlstatic.com/D_742916-MLM84175041310_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_742916-MLM84175041310_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "766649-MLM84511076449_052025",
+      "url": "http://http2.mlstatic.com/D_766649-MLM84511076449_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_766649-MLM84511076449_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "926770-MLM84477035035_052025",
+      "url": "http://http2.mlstatic.com/D_926770-MLM84477035035_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_926770-MLM84477035035_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1107x1200",
+      "quality": ""
+    },
+    {
+      "id": "828587-MLM84276930446_052025",
+      "url": "http://http2.mlstatic.com/D_828587-MLM84276930446_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_828587-MLM84276930446_052025-O.jpg",
+      "size": "372x500",
+      "max_size": "895x1200",
+      "quality": ""
+    },
+    {
+      "id": "849615-MLM50803444376_072022",
+      "url": "http://http2.mlstatic.com/D_849615-MLM50803444376_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_849615-MLM50803444376_072022-O.jpg",
+      "size": "242x500",
+      "max_size": "581x1200",
+      "quality": ""
+    },
+    {
+      "id": "829903-MLM50803410568_072022",
+      "url": "http://http2.mlstatic.com/D_829903-MLM50803410568_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_829903-MLM50803410568_072022-O.jpg",
+      "size": "257x500",
+      "max_size": "618x1200",
+      "quality": ""
+    },
+    {
+      "id": "786799-MLM50803425436_072022",
+      "url": "http://http2.mlstatic.com/D_786799-MLM50803425436_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_786799-MLM50803425436_072022-O.jpg",
+      "size": "242x500",
+      "max_size": "582x1200",
+      "quality": ""
+    },
+    {
+      "id": "731272-MLM50803328661_072022",
+      "url": "http://http2.mlstatic.com/D_731272-MLM50803328661_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_731272-MLM50803328661_072022-O.jpg",
+      "size": "243x500",
+      "max_size": "585x1200",
+      "quality": ""
+    },
+    {
+      "id": "936584-MLM50803483218_072022",
+      "url": "http://http2.mlstatic.com/D_936584-MLM50803483218_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_936584-MLM50803483218_072022-O.jpg",
+      "size": "242x500",
+      "max_size": "583x1200",
+      "quality": ""
+    },
+    {
+      "id": "798799-MLM50803422457_072022",
+      "url": "http://http2.mlstatic.com/D_798799-MLM50803422457_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_798799-MLM50803422457_072022-O.jpg",
+      "size": "247x500",
+      "max_size": "593x1200",
+      "quality": ""
+    },
+    {
+      "id": "700382-MLM50803476260_072022",
+      "url": "http://http2.mlstatic.com/D_700382-MLM50803476260_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_700382-MLM50803476260_072022-O.jpg",
+      "size": "249x500",
+      "max_size": "598x1200",
+      "quality": ""
+    },
+    {
+      "id": "947389-MLM50803422458_072022",
+      "url": "http://http2.mlstatic.com/D_947389-MLM50803422458_072022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_947389-MLM50803422458_072022-O.jpg",
+      "size": "302x500",
+      "max_size": "725x1200",
+      "quality": ""
+    },
+    {
+      "id": "836366-MLM84510293687_052025",
+      "url": "http://http2.mlstatic.com/D_836366-MLM84510293687_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_836366-MLM84510293687_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "822787-MLM84179183064_052025",
+      "url": "http://http2.mlstatic.com/D_822787-MLM84179183064_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_822787-MLM84179183064_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1107x1200",
+      "quality": ""
+    },
+    {
+      "id": "919283-MLM84489588247_052025",
+      "url": "http://http2.mlstatic.com/D_919283-MLM84489588247_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_919283-MLM84489588247_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "726994-MLM84475059329_052025",
+      "url": "http://http2.mlstatic.com/D_726994-MLM84475059329_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_726994-MLM84475059329_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "976135-MLM84489607443_052025",
+      "url": "http://http2.mlstatic.com/D_976135-MLM84489607443_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_976135-MLM84489607443_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "908820-MLM84474945171_052025",
+      "url": "http://http2.mlstatic.com/D_908820-MLM84474945171_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_908820-MLM84474945171_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1107x1200",
+      "quality": ""
+    },
+    {
+      "id": "865089-MLM84184333104_052025",
+      "url": "http://http2.mlstatic.com/D_865089-MLM84184333104_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_865089-MLM84184333104_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "744205-MLM84473879685_052025",
+      "url": "http://http2.mlstatic.com/D_744205-MLM84473879685_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_744205-MLM84473879685_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "659181-MLM84511046179_052025",
+      "url": "http://http2.mlstatic.com/D_659181-MLM84511046179_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_659181-MLM84511046179_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "981879-MLM84178842238_052025",
+      "url": "http://http2.mlstatic.com/D_981879-MLM84178842238_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_981879-MLM84178842238_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1108x1200",
+      "quality": ""
+    },
+    {
+      "id": "864470-MLM84584863887_052025",
+      "url": "http://http2.mlstatic.com/D_864470-MLM84584863887_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_864470-MLM84584863887_052025-O.jpg",
+      "size": "370x500",
+      "max_size": "712x960",
+      "quality": ""
+    },
+    {
+      "id": "615075-MLM84519483677_052025",
+      "url": "http://http2.mlstatic.com/D_615075-MLM84519483677_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_615075-MLM84519483677_052025-O.jpg",
+      "size": "334x500",
+      "max_size": "680x1016",
+      "quality": ""
+    },
+    {
+      "id": "828294-MLM84483481871_052025",
+      "url": "http://http2.mlstatic.com/D_828294-MLM84483481871_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_828294-MLM84483481871_052025-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "750829-MLM84473071845_052025",
+      "url": "http://http2.mlstatic.com/D_750829-MLM84473071845_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_750829-MLM84473071845_052025-O.jpg",
+      "size": "461x500",
+      "max_size": "1107x1200",
+      "quality": ""
+    },
+    {
+      "id": "945344-MLM84263183972_052025",
+      "url": "http://http2.mlstatic.com/D_945344-MLM84263183972_052025-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_945344-MLM84263183972_052025-O.jpg",
+      "size": "292x500",
+      "max_size": "584x1000",
+      "quality": ""
+    }
+  ],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_type": "list",
+      "value_name": "Adultos",
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "6725189"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_type": "string",
+      "value_name": "Vincini",
+      "values": [
+        {
+          "id": "13205620",
+          "name": "Vincini",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "13205620"
+    },
+    {
+      "id": "DRESS_TYPE",
+      "name": "Tipo de vestido",
+      "value_type": "string",
+      "value_name": "Asimétrico",
+      "values": [
+        {
+          "id": "1149076",
+          "name": "Asimétrico",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "1149076"
+    },
+    {
+      "id": "FABRIC_TYPE",
+      "name": "Tipo de tela",
+      "value_type": "string",
+      "value_name": "Licra",
+      "values": [
+        {
+          "id": null,
+          "name": "Licra",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "FILTRABLE_GENDER",
+      "name": "Género filtrables",
+      "value_type": "list",
+      "value_name": "Mujer",
+      "values": [
+        {
+          "id": "18549361",
+          "name": "Mujer",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "18549361"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_type": "list",
+      "value_name": "Mujer",
+      "values": [
+        {
+          "id": "339665",
+          "name": "Mujer",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "339665"
+    },
+    {
+      "id": "IS_EMERGING_BRAND",
+      "name": "Es marca emergente",
+      "value_type": "boolean",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "242084"
+    },
+    {
+      "id": "IS_HIGHLIGHT_BRAND",
+      "name": "Es marca destacada",
+      "value_type": "boolean",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "242084"
+    },
+    {
+      "id": "IS_SPORTIVE",
+      "name": " Es deportiva",
+      "value_type": "boolean",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "242084"
+    },
+    {
+      "id": "IS_TOM_BRAND",
+      "name": "Es marca TOM",
+      "value_type": "boolean",
+      "value_name": "No",
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "242084"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_type": "list",
+      "value_name": "Nuevo",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "2230284"
+    },
+    {
+      "id": "LENGTH_TYPE",
+      "name": "Tipo de largo",
+      "value_type": "list",
+      "value_name": "Midi",
+      "values": [
+        {
+          "id": "2189016",
+          "name": "Midi",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "2189016"
+    },
+    {
+      "id": "MAIN_MATERIAL",
+      "name": "Material principal",
+      "value_type": "string",
+      "value_name": "Poliéster",
+      "values": [
+        {
+          "id": "466794",
+          "name": "Poliéster",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "466794"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_type": "string",
+      "value_name": "20118",
+      "values": [
+        {
+          "id": null,
+          "name": "20118",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "NECK_TYPE",
+      "name": "Tipo de cuello",
+      "value_type": "list",
+      "value_name": "Descubierto",
+      "values": [
+        {
+          "id": null,
+          "name": "Descubierto",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "OCCASIONS",
+      "name": "Ocasión",
+      "value_type": "string",
+      "value_name": "Bodas,Casual,Fiesta,damas,vx años",
+      "values": [
+        {
+          "id": "41927483",
+          "name": "Bodas",
+          "struct": null,
+          "metric": null
+        },
+        {
+          "id": "433356",
+          "name": "Casual",
+          "struct": null,
+          "metric": null
+        },
+        {
+          "id": "4046176",
+          "name": "Fiesta",
+          "struct": null,
+          "metric": null
+        },
+        {
+          "id": null,
+          "name": "damas",
+          "struct": null,
+          "metric": null
+        },
+        {
+          "id": "55923992",
+          "name": "vx años",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "PRODUCT_FEATURES",
+      "name": "Características del producto",
+      "value_type": "list",
+      "value_name": "Sin vencimiento",
+      "values": [
+        {
+          "id": "8847339",
+          "name": "Sin vencimiento",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "8847339"
+    },
+    {
+      "id": "RELEASE_SEASON",
+      "name": "Temporada de lanzamiento",
+      "value_type": "list",
+      "value_name": "Primavera/Verano",
+      "values": [
+        {
+          "id": "994283",
+          "name": "Primavera/Verano",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "994283"
+    },
+    {
+      "id": "SHIPMENT_PACKING",
+      "name": "Embalaje del envío",
+      "value_type": "list",
+      "value_name": "Bolsa",
+      "values": [
+        {
+          "id": "7435891",
+          "name": "Bolsa",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "7435891"
+    },
+    {
+      "id": "SIZE_GRID_ID",
+      "name": "ID de la guía de tallas",
+      "value_type": "grid_id",
+      "value_name": "695896",
+      "values": [
+        {
+          "id": null,
+          "name": "695896",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "SLEEVE_TYPE",
+      "name": "Tipo de manga",
+      "value_type": "list",
+      "value_name": "Corta",
+      "values": [
+        {
+          "id": "466804",
+          "name": "Corta",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "466804"
+    },
+    {
+      "id": "STYLES",
+      "name": "Estilos",
+      "value_type": "string",
+      "value_name": "Casual; Fiesta",
+      "values": [
+        {
+          "id": null,
+          "name": "Casual; Fiesta",
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null
+    },
+    {
+      "id": "WITH_RECYCLED_MATERIALS",
+      "name": "Con materiales reciclados",
+      "value_type": "boolean",
+      "value_name": "",
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null,
+          "metric": null
+        }
+      ],
+      "allowed_units": null,
+      "suggested_values": null,
+      "attribute_group_id": "",
+      "attribute_group_name": "",
+      "tags": null,
+      "value_id": "-1"
+    }
+  ],
+  "start_time": "2019-08-20T22:39:06Z",
+  "stop_time": "2040-07-29T22:20:05Z",
+  "end_time": "2040-07-29T22:20:05Z",
+  "expiration_time": "2026-03-03T07:09:09.301Z"
+}
